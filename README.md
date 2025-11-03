@@ -36,12 +36,11 @@ O agente deverá:
 
 ##  Estrutura do Projeto
 
-\`\`\`
 IA25_P01_G12/
-├── README.md                          # Este ficheiro
-├── IA25_P01_G##_Notebook.ipynb       # Jupyter Notebook com solução completa
-└── Relatório_ IA.pdf                  # Relatório do projeto
-\`\`\`
+README.md                          # Este ficheiro
+IA25_P01_G##_Notebook.ipynb       # Jupyter Notebook com solução completa
+Relatório_ IA.pdf                  # Relatório do projeto
+
 
 ---
 
