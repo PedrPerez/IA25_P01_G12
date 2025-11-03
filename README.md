@@ -1,4 +1,4 @@
-# 📘 IA25 Project 01 — Class Timetable Generation using CSP
+#  IA25 Project 01 — Class Timetable Generation using CSP
 
 **Unidade Curricular:** Artificial Intelligence  
 **Ano letivo:** 2025/26  
@@ -7,7 +7,7 @@
 
 ---
 
-## 👥 Equipa de Trabalho
+## Equipa de Trabalho
 
 | Nome | Número |
 |------|--------|
@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Desenvolver um **agente inteligente** capaz de gerar automaticamente horários de aulas respeitando restrições obrigatórias (*hard constraints*) e tentando satisfazer preferências desejáveis (*soft constraints*).
 
@@ -34,7 +34,7 @@ O agente deverá:
 
 ---
 
-## 📋 Estrutura do Projeto
+##  Estrutura do Projeto
 
 \`\`\`
 IA25_P01_G12/
